@@ -1,4 +1,3 @@
-package com.company;
 
 import javafx.application.Application;
 import javafx.scene.Node;
@@ -18,7 +17,7 @@ import java.awt.*;
  * that was randomly chosen by the program within a given range
  * of 5 numbers.
  *
- * @author Mitchell Aninyang, 000796709
+ * @author Mitchell Aninyang
  */
 public class RandomGuesser extends Application {
 
